@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JCamachoF
-- 👀 I’m interested in history and learning languages
-- 🌱 I’m currently learning low german, dutch, android app, guitar
-- 💞️ I’m looking to collaborate on devolipong apps 
+- 👀 
 - 📫 How to reach me on my email dazaebcamacho@gmial.com
 
 <!---
